@@ -1,0 +1,2 @@
+# clanek-nts
+ignorujte to
